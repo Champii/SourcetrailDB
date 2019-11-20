@@ -4,3 +4,4 @@
 
 *.srctrldb
 *.srctrlbm
+target/
